@@ -13,7 +13,7 @@ A growing collection for [nightTab](https://github.com/zombieFox/nightTab) an ef
 
 > Choose your preferred theme and use it! Boom!
 
-> (noob alert) If you're new to GitHub click  on the green button saying **code* and download the *source code*
+> (noob alert) If you're new to GitHub click  on the green button saying **code** and download the *Download ZIP*
  
 # Tabs
 
