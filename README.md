@@ -2,7 +2,6 @@
 READ THROUGH CAREFULLY 
 ```
 
-# Night Tabs - A collection
+# Night Tab - A collection
 
-
-A bunch of simple, minimal themes I have made or edited other ones to something I like 
+A growing collection for [nightTab](https://github.com/zombieFox/nightTab) an effective yet simplicistic ''new tab customiser''
