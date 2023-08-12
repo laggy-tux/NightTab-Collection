@@ -6,6 +6,13 @@ READ THROUGH CAREFULLY
 
 A growing collection for [nightTab](https://github.com/zombieFox/nightTab) an effective yet simplicistic ''new tab customiser''
 
+# How-to 
+> Go ahead and download the plugin for ur preferred browser from [here](https://github.com/zombieFox/nightTab)
+
+> Go to *settings/data/import from file*
+
+> Choose your preferred theme and use it! Boom!
+ 
 # Tabs
 
 ```bash 
