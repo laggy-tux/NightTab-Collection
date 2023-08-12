@@ -27,6 +27,9 @@ A growing collection for [nightTab](https://github.com/zombieFox/nightTab) an ef
 ![Screenshot 2023-08-12 204347](https://github.com/laggy-tux/NightTab-Collection/assets/85402808/8d320726-8cde-44a9-add2-c5c3f1c07d45)
 
 ```bash 
-4. Damascus Black ``` ```bash forked from [u/Ttl001](https://www.reddit.com/r/nighttab/comments/15a0fio/my_nighttab_setup/)```
+4. Damascus Black
+```
+bash forked from [u/Ttl001](https://www.reddit.com/r/nighttab/comments/15a0fio/my_nighttab_setup/)
+
 
 ![Screenshot 2023-08-11 220836](https://github.com/laggy-tux/NightTab-Collection/assets/85402808/21731b74-5a54-4f8a-b730-1a9d33292eb3)
