@@ -13,6 +13,8 @@ A growing collection for [nightTab](https://github.com/zombieFox/nightTab) an ef
 
 > Choose your preferred theme and use it! Boom!
 
+> For more power... go ahead and read through the [Docs](https://github.com/zombieFox/nightTab#support) 
+
 > (noob alert) If you're new to GitHub click  on the green button saying **code** and click on *Download ZIP*
  
 # Tabs
@@ -43,3 +45,7 @@ A growing collection for [nightTab](https://github.com/zombieFox/nightTab) an ef
 
 
 ![Screenshot 2023-08-11 220836](https://github.com/laggy-tux/NightTab-Collection/assets/85402808/21731b74-5a54-4f8a-b730-1a9d33292eb3)
+
+```ocaml
+happy theming!
+```
