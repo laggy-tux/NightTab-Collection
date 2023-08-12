@@ -1,3 +1,9 @@
- # NightTab-Collection
+```ocaml
+READ THROUGH CAREFULLY 
+```
 
-A bunch of simple,minimal themes i have made or edited other ones to somthing i like 
+```css
+Night Tabs - A collection
+```
+
+A bunch of simple, minimal themes I have made or edited other ones to something I like 
