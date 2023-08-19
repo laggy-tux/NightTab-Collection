@@ -46,6 +46,14 @@ A growing collection for [nightTab](https://github.com/zombieFox/nightTab) an ef
 
 ![Screenshot 2023-08-11 220836](https://github.com/laggy-tux/NightTab-Collection/assets/85402808/21731b74-5a54-4f8a-b730-1a9d33292eb3)
 
+3. catpuccin-mushroom 
+```
+
+![Screenshot_2023-08-19-15-36-53_1600x900](https://github.com/laggy-tux/NightTab-Collection/assets/85402808/0abd59e8-6d9f-494b-94c7-bcad34729632)
+
+
+```bash 
+
 
 # happy theming!
 
